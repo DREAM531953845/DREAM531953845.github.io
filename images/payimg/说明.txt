@@ -1,0 +1,2 @@
+### 这里是链接支付信息二维码存储区
+### 需要替换alipayimg.jpg、weipayimg.jpg
